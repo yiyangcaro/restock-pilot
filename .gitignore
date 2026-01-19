@@ -13,3 +13,4 @@ dbt/logs/
 
 # misc
 .ipynb_checkpoints/
+dbt/profiles.yml
